@@ -18,7 +18,7 @@ class App extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const HomePage(title: 'Calculadora'),
+      home: const HomePage(title: 'Calculator application'),
     );
   }
 }
